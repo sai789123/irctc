@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2><%= "welcome to irctc!" %></h2>
+<h2><%= "welcome to irctcapp!" %></h2>
 </body>
 </html>
+
